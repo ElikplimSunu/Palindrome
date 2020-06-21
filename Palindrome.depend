@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592509929 source:e:\elikplim\my stuff\docs\palindrome\main.cpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
